@@ -1,0 +1,6 @@
+---
+- name: Install gluster-server
+  package: name=gluster-server state=present
+
+
+
