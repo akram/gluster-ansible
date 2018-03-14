@@ -1,6 +1,6 @@
 ---
 - name: Install gluster-server
-  package: name=gluster-server state=present
+  package: name=glusterfs-server state=present
 
 
 
